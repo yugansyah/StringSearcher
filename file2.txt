@@ -1,0 +1,9 @@
+RS. Polisi Sehat
+Rosa Valentine,17,Patah Tulang
+Martha Tilaar,90,Katarak
+Donny Sinaga,28,Luka Bakar
+Raja Marthin,5,Patah Tulang
+Jojo,68,Luka Tusuk
+Sony Cart,7,Polip
+Raja,17,Covid
+Mita Pardede,44,Covid
